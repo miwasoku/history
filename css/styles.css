@@ -74,8 +74,25 @@ body {
 
 .swiper-slide img {
   margin-top: 12px;
-  max-width: auto;
-  max-height: 200px;
+}
+
+@media screen and (max-width: 1600px){
+  .swiper-slide .year {
+    font-size:10px;
+    letter-spacing: 2px;
+    color: #333631;
+  }
+
+  .swiper-slide .desc {
+    font-size: 5px;
+    color: #8d6449;
+  }
+
+  .swiper-slide img {
+    margin-top: 5px;
+    max-width: auto;
+    max-height: auto;
+  }
 }
 
 @media screen and (max-width: 700px){
