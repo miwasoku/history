@@ -62,16 +62,33 @@ body {
 }
 
 .swiper-slide .year {
-  font-size: 3.5rem;
+  font-size:60px;
   letter-spacing: 2px;
   color: #333631;
 }
 
 .swiper-slide .desc {
-  font-size: 2rem;
+  font-size: 36px;
   color: #8d6449;
 }
 
 .swiper-slide img {
-  margin-top: 1.5rem;
+  margin-top: 12px;
+}
+
+@media screen and (max-width: 700px){
+  .swiper-slide .year {
+    font-size:10px;
+    letter-spacing: 2px;
+    color: #333631;
+  }
+
+  .swiper-slide .desc {
+    font-size: 5px;
+    color: #8d6449;
+  }
+
+  .swiper-slide img {
+    margin-top: 5px;
+  }
 }
