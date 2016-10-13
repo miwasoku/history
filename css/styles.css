@@ -90,5 +90,6 @@ body {
 
   .swiper-slide img {
     margin-top: 5px;
+    width: 100%;
   }
 }
