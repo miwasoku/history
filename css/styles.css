@@ -78,20 +78,20 @@ body {
 
 @media screen and (max-width: 1600px){
   .swiper-slide .year {
-    font-size:10px;
+    font-size:36px;
     letter-spacing: 2px;
     color: #333631;
   }
 
   .swiper-slide .desc {
-    font-size: 5px;
+    font-size: 20px;
     color: #8d6449;
   }
 
   .swiper-slide img {
     margin-top: 5px;
     max-width: auto;
-    max-height: auto;
+    max-height: 60%;
   }
 }
 
