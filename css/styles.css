@@ -62,16 +62,16 @@ body {
 }
 
 .swiper-slide .year {
-  font-size:60px;
+  font-size: 3.5rem;
   letter-spacing: 2px;
   color: #333631;
 }
 
 .swiper-slide .desc {
-  font-size: 36px;
+  font-size: 2rem;
   color: #8d6449;
 }
 
 .swiper-slide img {
-  margin-top: 12px;
+  margin-top: 1.5rem;
 }
