@@ -75,7 +75,7 @@ body {
 .swiper-slide img {
   margin-top: 12px;
   max-width: auto;
-  max-height: auto;
+  max-height: 200px;
 }
 
 @media screen and (max-width: 700px){
