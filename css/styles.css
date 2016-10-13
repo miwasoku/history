@@ -91,6 +91,6 @@ body {
   .swiper-slide img {
     margin-top: 5px;
     max-width: auto;
-    max-height: 200px;
+    max-height: auto;
   }
 }
